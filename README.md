@@ -1,6 +1,6 @@
 # Proyecto Teamsight, Attrition Prediction
 
-TO START CODING
+**TO START CODING**
 
 Firsts things to do:
 
