@@ -39,8 +39,6 @@ Files Description
   - ### Figures
     - **Correlation_over10.png:** plot of the correlation of the different variables with respect to attrition
 
-------
 ## Objectives of the study
-------
 
 The main objetive of this study is to create a MachineLearning/Probability based computing system to calculate the probability fo attrition of certain people or groups in a given company. Furthermore, after this first step being completed, we strive to understand why the main reasons this person/group wanted to leave in the first place.
