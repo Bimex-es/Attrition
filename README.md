@@ -1,2 +1,3 @@
-# Attrition
-Attrition Algorithm
+# Proyecto Teamsight, Attrition Prediction
+
+ReadMe Description
