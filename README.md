@@ -24,3 +24,12 @@ https://github.com/Bimex-es/Attrition.git
   
 4. Before coming back to work locally: 
   git pull
+
+-------
+Files Description
+-------
+
+------
+## Objectives of the study
+------
+
