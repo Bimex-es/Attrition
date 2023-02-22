@@ -10,7 +10,7 @@ TO START CODING
 Firsts things to do:
 
 1. Clone the repository
-https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+https://github.com/Bimex-es/Attrition.git
 
 2. Then create your own notebook. Take josep's one "play_with_data_josep.ipynb" as an example. You can there filter complicate pandas' data frames.  
 
