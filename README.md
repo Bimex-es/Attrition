@@ -1,6 +1,9 @@
 # Proyecto Teamsight, Attrition Prediction
 
-**TO START CODING**
+## Introduction
+This github is the programming related storing repository of a Final Thesis' Master. This thesis has been possible thanks to the agreement between the company *BIMEXAnalytics* and *Universtitat de Barcelona* to enable the student Adrián Chacón Candia to study and predict attrition values of companies to later model a solution to the problem. Attrition is weather a group of people or someone in particular decides to leave the company he's been working.
+
+## To Start Coding
 
 Firsts things to do:
 
@@ -10,6 +13,7 @@ https://github.com/Bimex-es/Attrition.git
 2. Then create your own notebook.  
 
 3. Upload your notebook and sync it frequently from your local folder (from your terminal):
+  
   git stash #leave your changes aside
   
   git pull #pull current version in website
@@ -42,3 +46,5 @@ Files Description
 ## Objectives of the study
 
 The main objetive of this study is to create a MachineLearning/Probability based computing system to calculate the probability fo attrition of certain people or groups in a given company. Furthermore, after this first step being completed, we strive to understand why the main reasons this person/group wanted to leave in the first place.
+
+This project strives to be as simple and understanding as possible for companies to implement in their daily basis. The final model will be later joined with a broader description of the company being studied with the SAC platform.
