@@ -1,4 +1,4 @@
-# Proyecto Teamsight, Attrition Prediction
+# Teamsight Project, Attrition Prediction
 
 ## Introduction
 This github is the programming related storing repository of a Final Thesis' Master. This thesis has been possible thanks to the agreement between the company *BIMEXAnalytics* and *Universtitat de Barcelona* to enable the student Adrián Chacón Candia. The final master project pretends to study and predict attrition values of companies and later model a solution of the problem. Attrition is weather a group of people or someone in particular decides to leave the company he's been working.
