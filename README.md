@@ -45,17 +45,19 @@ Files Description
     - **1_QinDfRawRskupf4mU5bYSA.png:** image that depicts the use of Principal Components Analysis.
     - **(Text)_freq_of_attrition.png:** The frequency of attrition for each category of each variable in the data_n DataFrame from the *Probability_and_main_Python_TFM.ipynb* code.
     - **Captura de pantalla 2023-03-02 a las 11.09.19.png:** Image that depicts a plot of two histograms and two evolutions with curves.
-    - **CorrelationMatrix.png:** plot of the correlation matrix obtained from the data_n DataFrame of the Probability_and_main_Python_TFM.ipynb code.
+    - **CorrelationMatrix.png:** plot of the correlation matrix obtained from the data_n DataFrame of the *Probability_and_main_Python_TFM.ipynb* code.
     - **EnvSat_JobSat.png:** plot that compares the distribution of attrition frequencies between Environment Satisfaction and Job Satisfaction.
     - **JobLev_StockOptLv.png:** plot that compares the distribution of attrition frequencies between Job Level and Stock Option Level.
     - **TotWorkYears_YearsAtComp.png:** plot that compares the distribution of attrition frequencies between Total Working Years and Years At Company.
     - **TotWorkYears_YearsAtComp.png:** plot that compares the distribution of attrition frequencies between Years in Current Role and Years With Current Manager.
     - **FirstConfMatrix.png:** plot of the confusion matrix obtained from the first random forest machine learning study from the *Machine_Learning_Python_TFM.ipynb* code.
     - **SecondConfMatrix.png:** plot of the confusion matrix obtained from the second random forest machine learning study (some data curation has been done) from the *Machine_Learning_Python_TFM.ipynb* code.
-    - **Learning_Curve_PCA.png:** plot that shows the learning curve from the different eigenvalues of the PCA method from the Probability_and_main_Python_TFM.ipynb code.
+    - **Learning_Curve_PCA.png:** plot that shows the learning curve from the different eigenvalues of the PCA method from the *Probability_and_main_Python_TFM.ipynb* code.
     - **dendrogram.png:** depiction of what a typical dendrogram looks like.
     - **random-forest-diagram.svg:** depiction of what a typical random forest looks like.
-    
+    - **CorrConfMatrix.png:** plot of the confusion matrix obtained from the forest machine learning study (with some data curation) of the correlation DataFrame (`df_ML_corr`) from the *Probability_and_main_Python_TFM.ipynb* code.
+    - **PCAConfMatrix.png:** plot of the confusion matrix obtained from the forest machine learning study (with some data curation) of the PCA DataFrame (`FDS_PCA`) from the *Probability_and_main_Python_TFM.ipynb* code.
+    - **CorrPCAConfMatrix.png:** plot of the confusion matrix obtained from the forest machine learning study (with some data curation) of the Correlation+PCA DataFrame (`df_corr_PCA`) from the *Probability_and_main_Python_TFM.ipynb* code.
     
 
 ## Objectives of the study
